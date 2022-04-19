@@ -1,0 +1,16 @@
+type,question,choices,answer
+true_false,Linking to an external style sheet allows you to have hyperlinks from your page to the World Wide Web,True False,TRUE
+true_false,CSS can add background images to documents.,True False,TRUE
+true_false,CSS can add background images to documents.,True False,TRUE
+true_false, Is the correct CSS syntax to change the font name.,True False,TRUE
+true_false,"The MIME type for a CSS style sheet is """"stylesheet = CSS",True False,TRUE
+multiple_choice,Choose a correct HTML tag to make text italic?,1) <i>   2) <head>  3) <it>  4) <title>,1
+multiple_choice,Tags and texts that are not directly displayed on the page are written in _____ section.,1) SGMD  2) SGML  3) SGMH  4) None of the above,2
+multiple_choice,HTML is a subset of ______,1) HTML tag  2) EM tag  3) TITLE tag  4) HEAD tag,4
+multiple_choice,The BODY tag is usually used after ______,1) HTML tag  2) EM tag  3) TITLE tag  4) HEAD tag,4
+multiple_choice,The tag which allows you to nest other HTML tags within the description,1) <CAPTION>  2) <TD>  3) <TR>  4) None of the above,1
+short_answer,How many days are in a leap year?,NONE,366
+short_answer,How many years are there in a century?,NONE,100
+short_answer,How many years are there in a passage of decade?,NONE,SIX
+short_answer,"If a figure is hexagonal, how many sides does it have?",NONE,EAST
+short_answer,In which direction does the sun come up?,NONE,MONDAY
